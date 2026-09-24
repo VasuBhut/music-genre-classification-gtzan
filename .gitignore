@@ -1,0 +1,14 @@
+# dataset (download from Kaggle)
+GTZAN Dataset/
+*.wav
+*.csv
+
+# model checkpoints and outputs
+results/
+*.pt
+*.pth
+
+# environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/

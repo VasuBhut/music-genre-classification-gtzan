@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+librosa
+numpy
+matplotlib
+seaborn
+tqdm
+jupyter
